@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# Daniel Mork
+PhD Candidate at Colorado State University
 
-You can use the [editor on GitHub](https://github.com/danielmork/danielmork.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Software
+### R package: dlmtree
+- Treed Distributed Lag Non-Linear Models, [code example](https://danielmork.github.io/TDLNM_Example.html)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Teaching
+- STAT301: F17, S18, F18
+- STAT315: S19, F19
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/danielmork/danielmork.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Consulting
+- Graybill Statistical Laboratory Consultant, 2019-2020
+- STAT556: Directed statistical consulting, teaching assistant
