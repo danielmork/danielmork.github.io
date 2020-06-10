@@ -1,10 +1,12 @@
 ## About Me
 Welcome to my personal webpage. I am currently a PhD candidate in Statistics at Colorado State University (CSU). My research is related to development of distributed lag linear and non-linear models, with applications to air pollution and children's health. Key statistical topics within my work include functional regression, variable and confounder selection, MCMC algorithms, and hierarchical Bayesian models.
 
-Prior to pursuing a statistics degree at CSU, I taught high school math in Greeley, CO, worked in Analytics for Target corp., and ran a web development and marketing company. In my free time I enjoy biking, fishing, canoeing, and gardening.
+Prior to pursuing a statistics degree at CSU, I taught high school math in Greeley, CO, worked in Logsitics and Analytics for Target Corp., and ran a web development and marketing company. In my free time I enjoy biking, skiing, camping, and gardening.
 
 ## Publications
 - Treed Distributed Lag Non-Linear Models (in progress)
+- Distributed Lag Mixture Models (in progress)
+- Distributed Lag Models with Effect Heterogeneity (in progress)
 
 ## Software
 ### R package: dlmtree
