@@ -3,7 +3,7 @@ PhD Candidate at Colorado State University
 
 ## Software
 ### R package: dlmtree
-- Treed Distributed Lag Non-Linear Models, [code example](https://danielmork.github.io/TDLNM_Example.html)
+- Treed Distributed Lag Non-Linear Models, [code example](https://danielmork.github.io/dlmtree/TDLNM_Example.html)
 
 ## Teaching
 - STAT301: F17, S18, F18
