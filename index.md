@@ -1,5 +1,5 @@
-# Daniel Mork
-PhD Candidate at Colorado State University
+## About Me
+
 
 ## Software
 ### R package: dlmtree
