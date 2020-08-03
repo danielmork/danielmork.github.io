@@ -5,8 +5,6 @@ Prior to pursuing a statistics degree at CSU, I taught high school math in Greel
 
 ## Publications
 - Treed Distributed Lag Non-Linear Models (in progress)
-- Distributed Lag Mixture Models (in progress)
-- Distributed Lag Models with Effect Heterogeneity (in progress)
 
 ## Software
 ### R package: [dlmtree](https://github.com/danielmork/dlmtree)
