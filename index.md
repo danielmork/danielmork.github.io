@@ -4,7 +4,7 @@ Welcome to my personal webpage. I am currently a PhD candidate in Statistics at 
 Prior to pursuing a statistics degree at CSU, I taught high school math in Greeley, CO, worked in Logsitics and Analytics for Target Corp., and ran a web development and marketing company. In my free time I enjoy biking, skiing, camping, and gardening.
 
 ## Publications
-- Treed Distributed Lag Non-Linear Models (in progress)
+- Mork, D., Wilson, A. (2020+). Treed Distributed Lag Non-Linear Models. [arXiv:2010.06147 [stat.ME]](https://arxiv.org/abs/2010.06147)
 
 ## Software
 ### R package: [dlmtree](https://github.com/danielmork/dlmtree)
