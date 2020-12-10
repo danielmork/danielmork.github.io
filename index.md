@@ -5,7 +5,7 @@ Welcome to my personal webpage. I am currently a PhD candidate in Statistics at 
 Humans encounter a wide array of chemical and nonchemical stressors on a daily basis. These stressors may act individually or in combination to alter health status. My research focuses on developing statistical methodology and software to understand the relationships between air pollution and health.  I explore innovative, Bayesian machine learning methods that seek to unravel these complexities in environmental health while accounting for a range of demographic, spatial, or temporal considerations. Simultaneously, I create user-friendly software for efficient application and reproducibility in epidemiological studies.
 
 ## Publications
-- Mork, D., Wilson, A. (2020+). Treed Distributed Lag Non-Linear Models. [arXiv:2010.06147](https://arxiv.org/abs/2010.06147)
+- Mork, D., Wilson, A. (2020+). Treed Distributed Lag Nonlinear Models. [arXiv:2010.06147](https://arxiv.org/abs/2010.06147)
 
 ## Software
 ### R package: [dlmtree](https://github.com/danielmork/dlmtree)
