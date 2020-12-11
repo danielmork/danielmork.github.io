@@ -19,7 +19,8 @@ Humans encounter a wide array of chemical and nonchemical stressors on a daily b
 - STAT301 (instructor): Fa17, Sp18, Fa18
 
 ## Statistical Consulting Projects
-Through my work as a Graduate Research Assistant and through the [Graybill Statistical and Data Science Laboratory](https://statlab.colostate.edu/) I have consulted on a range of projects for both exploratory research and publiciation. These include:
+Through my work as a Graduate Research Assistant and through the [Graybill Statistics and Data Science Laboratory](https://statlab.colostate.edu/) I have consulted on a 
+range of projects for both exploratory research and publiciation. These include:
 - Radiology and ultrasonography analyses in thoroughbred race horses, associations between irregularities and race results (2020+)
 - Structural equation modeling of longitudinal relationships between meaningful activities and meaning in life for U.S. military veterans in college (2020)
 - Machine learning methods for characterizing coffee beans using mass spectrometry data (2020)
