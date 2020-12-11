@@ -14,9 +14,10 @@ Humans encounter a wide array of chemical and nonchemical stressors on a daily b
 - Treed Distributed Lag Mixture Models, [code example](https://danielmork.github.io/dlmtree/TDLMM_Example.html)
 
 ## Teaching
-- STAT556 (teaching assistant): Sp20
-- STAT315 (instructor): Sp19, Fa19
-- STAT301 (instructor): Fa17, Sp18, Fa18
+Colorado State University
+- STAT 556 Directed Statistical Consulting (teaching assistant): Sp20
+- STAT 315 Introduction to Theory and Practice of Statistics (instructor): Sp19, Fa19
+- STAT 301 Introduction to Statistical Methods (instructor): Fa17, Sp18, Fa18
 
 ## Statistical Consulting Projects
 Through my work as a Graduate Research Assistant and through the [Graybill Statistics and Data Science Laboratory](https://statlab.colostate.edu/) I have consulted on a range of projects for both exploratory research and publiciation. These include:
