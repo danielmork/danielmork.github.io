@@ -6,7 +6,7 @@ Humans encounter a wide array of chemical and nonchemical stressors on a daily b
 
 ## Publications
 - Daniel Mork, [Ander Wilson](https://anderwilson.github.io/). <em>Biostatistics</em> (2021). Treed Distributed Lag Nonlinear Models. ([arXiv](https://arxiv.org/abs/2010.06147)) ([code](https://github.com/danielmork/dlmtree)) ([journal](https://doi.org/10.1093/biostatistics/kxaa051))
-- Daniel Mork, [Ander Wilson](https://anderwilson.github.io/) (2020+). Estimating Perinatal Critical Windows to Environmental Mixtures via Structured Bayesian Regression Tree Pairs. (submitted) ([arXiv](http://arxiv.org/abs/2102.09071)) ([3MC](https://youtu.be/UR3jvu8Wn3k)) ([code](https://github.com/danielmork/dlmtree))
+- Daniel Mork, [Ander Wilson](https://anderwilson.github.io/) (submitted). Estimating Perinatal Critical Windows to Environmental Mixtures via Structured Bayesian Regression Tree Pairs. ([arXiv](http://arxiv.org/abs/2102.09071)) ([3MC](https://youtu.be/UR3jvu8Wn3k)) ([code](https://github.com/danielmork/dlmtree))
 
 ## Software
 ### R package: [dlmtree](https://github.com/danielmork/dlmtree)
