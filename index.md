@@ -5,8 +5,8 @@ Welcome to my personal webpage. I am currently a PhD candidate in [Statistics at
 Humans encounter a wide array of chemical and nonchemical stressors on a daily basis. These stressors may act individually or in combination to alter health status. My current research focuses on developing statistical methodology and software to understand the relationships between air pollution and health.  I explore innovative, Bayesian machine learning methods that seek to unravel these complexities in environmental health while accounting for a range of demographic, spatial, or temporal considerations. Simultaneously, I create user-friendly software for efficient application and reproducibility in epidemiological studies.
 
 ## Publications
-- Treed Distributed Lag Nonlinear Models<br /> Daniel Mork, [Ander Wilson](https://anderwilson.github.io/)<br /><em>Biostatistics</em>, 2021 <br />([arXiv](https://arxiv.org/abs/2010.06147)) ([code](https://github.com/danielmork/dlmtree)) ([journal](https://doi.org/10.1093/biostatistics/kxaa051))
-- Daniel Mork, [Ander Wilson](https://anderwilson.github.io/) (submitted). Estimating Perinatal Critical Windows to Environmental Mixtures via Structured Bayesian Regression Tree Pairs. ([arXiv](http://arxiv.org/abs/2102.09071)) ([3MC video](https://youtu.be/UR3jvu8Wn3k?t=28)) ([code](https://github.com/danielmork/dlmtree))
+- Treed Distributed Lag Nonlinear Models<br /> Daniel Mork, [Ander Wilson](https://anderwilson.github.io/)<br /><em>Biostatistics, in press</em> <br />([arXiv](https://arxiv.org/abs/2010.06147)) ([code](https://github.com/danielmork/dlmtree)) ([journal](https://doi.org/10.1093/biostatistics/kxaa051))
+- Estimating Perinatal Critical Windows to Environmental Mixtures via Structured Bayesian Regression Tree Pairs.<br />Daniel Mork, [Ander Wilson](https://anderwilson.github.io/)<br /><em>Submitted</em><br /> ([arXiv](http://arxiv.org/abs/2102.09071)) ([3MC video](https://youtu.be/UR3jvu8Wn3k?t=28)) ([code](https://github.com/danielmork/dlmtree))
 
 ## Software
 ### R package: [dlmtree](https://github.com/danielmork/dlmtree)
