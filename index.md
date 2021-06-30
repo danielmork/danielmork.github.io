@@ -12,6 +12,7 @@ Humans encounter a wide array of chemical and nonchemical stressors on a daily b
 ### R package: [dlmtree](https://github.com/danielmork/dlmtree)
 - Treed Distributed Lag Non-Linear Models, [code example](https://danielmork.github.io/dlmtree/TDLNM_Example.html)
 - Treed Distributed Lag Mixture Models, [code example](https://danielmork.github.io/dlmtree/TDLMM_Example.html)
+- Treed Distributed Lag Mixture Models, [adjusting for changes in co-exposures](https://danielmork.github.io/dlmtree/TDLMM_adj_coexp.html)
 
 ## Teaching
 Colorado State University
