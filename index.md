@@ -1,6 +1,6 @@
 Welcome to my personal webpage. I am currently a postdoctoral fellow in the [Department of Biostatistics at Harvard School of Public Health](https://www.hsph.harvard.edu/biostatistics/) (HSPH). My statistical research interests include: statistical machine learning, functional regression, variable selection, effect heterogeneity and causal inference. Beyond these, I am always excited to explore new problems and methods. In my free time I enjoy biking, skiing, camping, and gardening.
 
-## Background <div id="background"></div>
+## Background
 I received my PhD in Statistics from [Colorado State University](https://statistics.colostate.edu/), where my dissertation focused on developing Bayesian machine learning methods to estimate the effects of repeated measurements of exposures on children's birth and health outcomes. Prior to my work as a statistician, I taught high school math in Greeley, CO where I implemented a personalized learning system, and worked for Target Corporation where I managed a range of workforce and procurement analytics and merged diverse data sources to develop data-driven tools for workflow optimization and cost efficiency. 
 
 ## Current Research 
