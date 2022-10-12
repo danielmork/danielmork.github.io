@@ -6,18 +6,18 @@ I received my PhD in Statistics from [Colorado State University](https://statist
 In my free time I enjoy biking, skiing, camping, and gardening.
 
 ## Selected Publications
-**Heterogeneous Distributed Lag Models to Estimate Personalized Effects of Maternal Exposures to Air Pollution**<br />D Mork, [M-A Kioumourtzoglou](https://www.publichealth.columbia.edu/people/our-faculty/mk3961), [M Weisskopf](https://www.hsph.harvard.edu/marc-weisskopf/), [B A Coull](https://www.hsph.harvard.edu/brent-coull/), [A Wilson](https://anderwilson.github.io/). *Preprint*<br /> ([arXiv](https://arxiv.org/abs/2109.13763)) ([code](https://github.com/danielmork/dlmtree))
+**Heterogeneous Distributed Lag Models to Estimate Personalized Effects of Maternal Exposures to Air Pollution**<br />D Mork, [M-A Kioumourtzoglou](https://www.publichealth.columbia.edu/people/our-faculty/mk3961), [M Weisskopf](https://www.hsph.harvard.edu/marc-weisskopf/), [B A Coull](https://www.hsph.harvard.edu/brent-coull/), [A Wilson](https://anderwilson.github.io/). *In revision*.<br /> ([arXiv](https://arxiv.org/abs/2109.13763)) ([code](https://github.com/danielmork/dlmtree))
 
-[**Estimating Perinatal Critical Windows of Susceptibility to Environmental Mixtures via Structured Bayesian Regression Tree Pairs**](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13568)<br />D Mork, [A Wilson](https://anderwilson.github.io/). *Biometrics, in press*<br />([arXiv](http://arxiv.org/abs/2102.09071)) ([3MC video](https://youtu.be/UR3jvu8Wn3k?t=28)) ([code](https://github.com/danielmork/dlmtree))
+[**Estimating Perinatal Critical Windows of Susceptibility to Environmental Mixtures via Structured Bayesian Regression Tree Pairs**](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13568)<br />D Mork, [A Wilson](https://anderwilson.github.io/). *Biometrics, (2022)*.<br />([arXiv](http://arxiv.org/abs/2102.09071)) ([3MC video](https://youtu.be/UR3jvu8Wn3k?t=28)) ([code](https://github.com/danielmork/dlmtree))
 
-[**Treed Distributed Lag Nonlinear Models**](https://doi.org/10.1093/biostatistics/kxaa051)<br />D Mork, [A Wilson](https://anderwilson.github.io/). *Biostatistics, in press*.<br />([arXiv](https://arxiv.org/abs/2010.06147)) ([code](https://github.com/danielmork/dlmtree))
+[**Treed Distributed Lag Nonlinear Models**](https://doi.org/10.1093/biostatistics/kxaa051)<br />D Mork, [A Wilson](https://anderwilson.github.io/). *Biostatistics, (2022)*.<br />([arXiv](https://arxiv.org/abs/2010.06147)) ([code](https://github.com/danielmork/dlmtree))
 
 ## Software for Reproducible Research
 ### R package: [dlmtree](https://github.com/danielmork/dlmtree)
 - Treed Distributed Lag Non-Linear Models, [code example](https://danielmork.github.io/dlmtree/TDLNM_Example.html)
 - Treed Distributed Lag Mixture Models, [code example](https://danielmork.github.io/dlmtree/TDLMM_Example.html), [adjusting for changes in co-exposures](https://danielmork.github.io/dlmtree/TDLMM_adj_coexp.html)
 
-## Teaching and Mentoring
+## Teaching
 Colorado State University
 - STAT 556 Directed Statistical Consulting (teaching assistant): Sp20
 - STAT 315 Intro to Theory and Practice of Statistics (instructor): Sp19, Fa19
@@ -31,5 +31,5 @@ Below are examples of projects I have consulted on for both exploratory research
 - Machine learning methods to classify coffee beans using mass spectrometry data
 - Relationships between sleep and activity habits of practicing physicians
 - Analysis of the presence of cataracts in Siberian Husky versus other dog breeds
-- Sorghum plant metabolomics, changes over time under water or nitrogen stress conditions
+- Sorghum plant metabolomics, changes over time induced by water or nitrogen stress conditions
 - Statistical models for local dust storm prediction in the South-West United States 
