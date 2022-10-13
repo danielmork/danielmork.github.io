@@ -24,11 +24,11 @@ Colorado State University
 
 ## Consulting
 Below are examples of projects I have consulted on for both exploratory research and publication.
-- Individual factors driving rural medical debt concerns
+- Sorghum plant metabolomics, changes over time induced by water or nitrogen stress conditions
+- Machine learning methods for classification of coffee beans based on mass spectrometry data
 - Radiology and ultrasonography analyses in thoroughbred race horses, associations between irregularities and race results
 - Structural equation modeling of longitudinal relationships between meaningful activities and meaning in life for U.S. military veterans in college 
-- Machine learning methods to classify coffee beans using mass spectrometry data
+- Local dust storm prediction in the South-West United States 
+- Individual factors driving rural medical debt concerns
 - Relationships between sleep and activity habits of practicing physicians
 - Analysis of the presence of cataracts in Siberian Husky versus other dog breeds
-- Sorghum plant metabolomics, changes over time induced by water or nitrogen stress conditions
-- Statistical models for local dust storm prediction in the South-West United States 
