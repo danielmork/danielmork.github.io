@@ -5,7 +5,7 @@ I received my PhD in Statistics from [Colorado State University](https://statist
 In my free time I enjoy biking, skiing, camping, and gardening.
 
 ## Selected Publications
-**Heterogeneous Distributed Lag Models to Estimate Personalized Effects of Maternal Exposures to Air Pollution**<br />D Mork, [M-A Kioumourtzoglou](https://www.publichealth.columbia.edu/people/our-faculty/mk3961), [M Weisskopf](https://www.hsph.harvard.edu/marc-weisskopf/), [B A Coull](https://www.hsph.harvard.edu/brent-coull/), [A Wilson](https://anderwilson.github.io/). *In revision*.<br /> ([arXiv](https://arxiv.org/abs/2109.13763)) ([code](https://github.com/danielmork/dlmtree))
+**Heterogeneous Distributed Lag Models to Estimate Personalized Effects of Maternal Exposures to Air Pollution**<br />D Mork, [M-A Kioumourtzoglou](https://marianthi.github.io/makLAB.github.io/), [M Weisskopf](https://www.hsph.harvard.edu/weisskopf-lab/), [B A Coull](https://www.hsph.harvard.edu/brent-coull/), [A Wilson](https://anderwilson.github.io/). *In revision*.<br /> ([arXiv](https://arxiv.org/abs/2109.13763)) ([code](https://github.com/danielmork/dlmtree))
 
 [**Estimating Perinatal Critical Windows of Susceptibility to Environmental Mixtures via Structured Bayesian Regression Tree Pairs**](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13568)<br />D Mork, [A Wilson](https://anderwilson.github.io/). *Biometrics, (2022)*.<br />([arXiv](http://arxiv.org/abs/2102.09071)) ([3MC video](https://youtu.be/UR3jvu8Wn3k?t=28)) ([code](https://github.com/danielmork/dlmtree))
 
