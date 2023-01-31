@@ -5,7 +5,7 @@ I received my PhD in Statistics from [Colorado State University](https://statist
 In my free time I enjoy biking, skiing, camping, and gardening.
 
 ## Selected Publications
-**Incorporating prior information into distributed lag nonlinear models with zero-inflated monotone regression trees**. <br />D Mork, [A Wilson](https://anderwilson.github.io/)<br />([arXiv](https://arxiv.org/abs/2301.12937)) ([code](https://github.com/danielmork/monotone_dlnm))
+**Incorporating prior information into distributed lag nonlinear models with zero-inflated monotone regression trees**. <br />D Mork, [A Wilson](https://anderwilson.github.io/). *Submitted*.<br />([arXiv](https://arxiv.org/abs/2301.12937)) ([code](https://github.com/danielmork/monotone_dlnm))
 
 **Heterogeneous Distributed Lag Models to Estimate Personalized Effects of Maternal Exposures to Air Pollution**<br />D Mork, [M-A Kioumourtzoglou](https://marianthi.github.io/makLAB.github.io/), [M Weisskopf](https://www.hsph.harvard.edu/weisskopf-lab/), [B A Coull](https://www.hsph.harvard.edu/brent-coull/), [A Wilson](https://anderwilson.github.io/). *In revision*.<br /> ([arXiv](https://arxiv.org/abs/2109.13763)) ([code](https://github.com/danielmork/dlmtree))
 
