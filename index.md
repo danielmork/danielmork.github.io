@@ -5,13 +5,20 @@ I received my PhD in Statistics from [Colorado State University](https://statist
 In my free time I enjoy biking, skiing, camping, and gardening.
 
 ## Selected Statistical Publications
-**Incorporating prior information into distributed lag nonlinear models with zero-inflated monotone regression trees**. <br />D Mork, [A Wilson](https://anderwilson.github.io/). *Bayesian Analysis (2023)*.<br />([arXiv](https://arxiv.org/abs/2301.12937)) ([code](https://github.com/danielmork/monotone_dlnm))
+**Incorporating prior information into distributed lag nonlinear models with zero-inflated monotone regression trees**. <br />D Mork, [A Wilson](https://anderwilson.github.io/). *Bayesian Analysis (2024)*.<br />([arXiv](https://arxiv.org/abs/2301.12937)) ([code](https://github.com/danielmork/monotone_dlnm))
 
 [**Heterogeneous Distributed Lag Models to Estimate Personalized Effects of Maternal Exposures to Air Pollution**](https://doi.org/10.1080/01621459.2023.2258595)<br />D Mork, [M-A Kioumourtzoglou](https://marianthi.github.io/makLAB.github.io/), [M Weisskopf](https://www.hsph.harvard.edu/weisskopf-lab/), [B A Coull](https://www.hsph.harvard.edu/brent-coull/), [A Wilson](https://anderwilson.github.io/). *Journal of the American Statistical Association (2023)*.<br /> ([arXiv](https://arxiv.org/abs/2109.13763)) ([code](https://github.com/danielmork/HDLM))
 
 [**Estimating Perinatal Critical Windows of Susceptibility to Environmental Mixtures via Structured Bayesian Regression Tree Pairs**](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13568)<br />D Mork, [A Wilson](https://anderwilson.github.io/). *Biometrics (2023)*.<br />([arXiv](http://arxiv.org/abs/2102.09071)) ([3MC video](https://youtu.be/UR3jvu8Wn3k?t=28)) ([code](https://github.com/danielmork/dlmtree))
 
 [**Treed Distributed Lag Nonlinear Models**](https://doi.org/10.1093/biostatistics/kxaa051)<br />D Mork, [A Wilson](https://anderwilson.github.io/). *Biostatistics (2022)*.<br />([arXiv](https://arxiv.org/abs/2010.06147)) ([code](https://github.com/danielmork/dlmtree))
+
+## Selected Applied Publications
+[**Applying a multistate survival model to explore the role of fine particles in promoting frailty in the Medicare cohort**](https://doi.org/10.1097/ee9.0000000000000285)<br />N Fann, A Zanobetti, D Mork, W Steinhardt, A Rappold. *Environmental Epidemiology (2024)*.
+
+[**Combining aggregate and individual-level data to estimate individual-level associations between air pollution and COVID-19 mortality in the United States**](https://doi.org/10.1371/journal.pgph.0002178)<br />S Woodward, D Mork, X Wu, Z Hou, D Braun, F Dominici. *PLOS Global Public Health (2023)*.
+
+[**Time-lagged relationships between a decade of air pollution exposure and first hospitalization with Alzheimer's disease and related dementias**](https://doi.org/10.1016/j.envint.2022.107694)<br />D Mork, D Braun, A Zanobetti. *Environment International (2023)*.
 
 ## Software for Reproducible Research
 ### R package: [dlmtree](https://github.com/danielmork/dlmtree)
@@ -24,13 +31,3 @@ Colorado State University
 - STAT 315 Intro to Theory and Practice of Statistics (instructor): Sp19, Fa19
 - STAT 301 Intro to Statistical Methods (instructor): Fa17, Sp18, Fa18
 
-## Consulting
-Below are examples of projects I have consulted on for both exploratory research and publication.
-- Sorghum plant metabolomics, changes over time induced by water or nitrogen stress conditions
-- Machine learning methods for classification of coffee beans based on mass spectrometry data
-- Radiology and ultrasonography analyses in thoroughbred race horses, associations between irregularities and race results
-- Structural equation modeling of longitudinal relationships between meaningful activities and meaning in life for U.S. military veterans in college 
-- Local dust storm prediction in the South-West United States 
-- Individual factors driving rural medical debt concerns
-- Relationships between sleep and activity habits of practicing physicians
-- Analysis of the presence of cataracts in Siberian Husky versus other dog breeds
