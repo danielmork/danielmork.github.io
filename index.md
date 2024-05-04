@@ -21,7 +21,7 @@ In my free time I enjoy biking, skiing, camping, and gardening.
 [**Time-lagged relationships between a decade of air pollution exposure and first hospitalization with Alzheimer's disease and related dementias**](https://doi.org/10.1016/j.envint.2022.107694)<br />D Mork, D Braun, A Zanobetti. *Environment International (2023)*.
 
 ## Software for Reproducible Research
-<img src="img/apple-touch-icon-120x120.png" style="float:left" />
+<img src="img/apple-touch-icon-120x120.png" style="float:left; margin-right: 20px;" />
 ### R package: [dlmtree](https://danielmork.github.io/dlmtree)
 - Treed Distributed Lag Non-Linear Models, [code example](https://danielmork.github.io/dlmtree_docs/TDLNM_Example.html)
 - Treed Distributed Lag Mixture Models, [code example](https://danielmork.github.io/dlmtree_docs/TDLMM_Example.html), [adjusting for changes in co-exposures](https://danielmork.github.io/dlmtree_docs/TDLMM_adj_coexp.html)
