@@ -5,6 +5,8 @@ I received my PhD in Statistics from [Colorado State University](https://statist
 In my free time I enjoy biking, skiing, camping, and gardening.
 
 ## Selected Statistical Publications
+[**Policy-induced air pollution health disparities: Statistical and data science considerations**](https://doi.org/10.1126/science.adp1870) <br />D Mork, S Delaney, [F Dominici](https://www.hsph.harvard.edu/francesca-dominici/). *Science (2024)*.
+
 [**Incorporating prior information into distributed lag nonlinear models with zero-inflated monotone regression trees**](https://doi.org/10.1214/23-BA1412) <br />D Mork, [A Wilson](https://anderwilson.github.io/). *Bayesian Analysis (2024)*.<br />([arXiv](https://arxiv.org/abs/2301.12937)) ([code](https://github.com/danielmork/monotone_dlnm))
 
 [**Heterogeneous Distributed Lag Models to Estimate Personalized Effects of Maternal Exposures to Air Pollution**](https://doi.org/10.1080/01621459.2023.2258595)<br />D Mork, [M-A Kioumourtzoglou](https://marianthi.github.io/makLAB.github.io/), [M Weisskopf](https://www.hsph.harvard.edu/weisskopf-lab/), [B A Coull](https://www.hsph.harvard.edu/brent-coull/), [A Wilson](https://anderwilson.github.io/). *Journal of the American Statistical Association (2024)*.<br /> ([arXiv](https://arxiv.org/abs/2109.13763)) ([code](https://github.com/danielmork/HDLM))
