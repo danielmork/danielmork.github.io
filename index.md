@@ -5,6 +5,8 @@ I received my PhD in Statistics from [Colorado State University](https://statist
 In my free time I enjoy biking, skiing, camping, and gardening.
 
 ## Selected Statistical Publications
+[**Structured Bayesian Regression Tree Models for Estimating Distributed Lag Effects: The R Package dlmtree**](https://arxiv.org/abs/2504.18452) <br/>[S Im](https://seongwonim.github.io), [A Wilson](https://anderwilson.github.io/), D Mork.
+
 [**Policy-induced air pollution health disparities: Statistical and data science considerations**](https://doi.org/10.1126/science.adp1870) <br />D Mork, S Delaney, [F Dominici](https://www.hsph.harvard.edu/francesca-dominici/). *Science (2024)*.
 
 [**Incorporating prior information into distributed lag nonlinear models with zero-inflated monotone regression trees**](https://doi.org/10.1214/23-BA1412) <br />D Mork, [A Wilson](https://anderwilson.github.io/). *Bayesian Analysis (2024)*.<br />([arXiv](https://arxiv.org/abs/2301.12937)) ([code](https://github.com/danielmork/monotone_dlnm))
@@ -25,6 +27,10 @@ In my free time I enjoy biking, skiing, camping, and gardening.
 ## Software for Reproducible Research
 <img src="img/apple-touch-icon-120x120.png" style="float:left; margin-right: 20px;" />
 ### R package: [dlmtree](https://danielmork.github.io/dlmtree)
+[![CRAN
+status](https://www.r-pkg.org/badges/version/dlmtree)](https://CRAN.R-project.org/package=dlmtree)
+[![R-CMD-check](https://github.com/danielmork/dlmtree/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/danielmork/dlmtree/actions/workflows/R-CMD-check.yaml)
+[![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/dlmtree)](https://CRAN.R-project.org/package=dlmtree)
 - Treed Distributed Lag Non-Linear Models, [code example](https://danielmork.github.io/dlmtree_docs/TDLNM_Example.html)
 - Treed Distributed Lag Mixture Models, [code example](https://danielmork.github.io/dlmtree_docs/TDLMM_Example.html), [adjusting for changes in co-exposures](https://danielmork.github.io/dlmtree_docs/TDLMM_adj_coexp.html)
 
