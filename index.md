@@ -27,12 +27,13 @@ In my free time I enjoy biking, skiing, camping, and gardening.
 ## Software for Reproducible Research
 <img src="img/apple-touch-icon-120x120.png" style="float:left; margin-right: 20px;" />
 ### R package: [dlmtree](https://danielmork.github.io/dlmtree)
+- Treed Distributed Lag Non-Linear Models, [code example](https://danielmork.github.io/dlmtree_docs/TDLNM_Example.html)
+- Treed Distributed Lag Mixture Models, [code example](https://danielmork.github.io/dlmtree_docs/TDLMM_Example.html), [adjusting for changes in co-exposures](https://danielmork.github.io/dlmtree_docs/TDLMM_adj_coexp.html)
+  
 [![CRAN
 status](https://www.r-pkg.org/badges/version/dlmtree)](https://CRAN.R-project.org/package=dlmtree)
 [![R-CMD-check](https://github.com/danielmork/dlmtree/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/danielmork/dlmtree/actions/workflows/R-CMD-check.yaml)
 [![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/dlmtree)](https://CRAN.R-project.org/package=dlmtree)
-- Treed Distributed Lag Non-Linear Models, [code example](https://danielmork.github.io/dlmtree_docs/TDLNM_Example.html)
-- Treed Distributed Lag Mixture Models, [code example](https://danielmork.github.io/dlmtree_docs/TDLMM_Example.html), [adjusting for changes in co-exposures](https://danielmork.github.io/dlmtree_docs/TDLMM_adj_coexp.html)
 
 ## Teaching
 Colorado State University
