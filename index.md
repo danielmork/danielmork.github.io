@@ -5,6 +5,7 @@ I received my PhD in Statistics from [Colorado State University](https://statist
 In my free time I enjoy biking, skiing, camping, and gardening.
 
 ## Selected Statistical Publications
+[**A structural nested rate model for estimating the effects of time-varying exposure on recurrent event outcomes in the presence of death]](https://arxiv.org/abs/2506.07910)<br/>D Mork, [RL Strawderman](https://www.urmc.rochester.edu/people/112359920-robert-l-strawderman), [M Audirac](https://audiracmichelle.com), [F Dominici](https://www.hsph.harvard.edu/francesca-dominici/), [A Ertefaie](https://ertefaie.com).
 [**Structured Bayesian Regression Tree Models for Estimating Distributed Lag Effects: The R Package dlmtree**](https://arxiv.org/abs/2504.18452) <br/>[S Im](https://seongwonim.github.io), [A Wilson](https://anderwilson.github.io/), D Mork.
 
 [**Policy-induced air pollution health disparities: Statistical and data science considerations**](https://doi.org/10.1126/science.adp1870) <br />D Mork, S Delaney, [F Dominici](https://www.hsph.harvard.edu/francesca-dominici/). *Science (2024)*.
