@@ -1,10 +1,16 @@
-Welcome to my personal webpage. I am a research scientist in the [Department of Biostatistics at Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu/biostatistics/) working with [National Studies on Air Pollution and Health](https://www.hsph.harvard.edu/nsaph/). My statistical interests include [structured machine learning](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13568), [effect heterogeneity](https://arxiv.org/abs/2109.13763), [functional regression](https://doi.org/10.1093/biostatistics/kxaa051), [causal inference](https://arxiv.org/abs/2306.03011), [Bayesian methodology and computation](https://arxiv.org/abs/2301.12937), and analysis of [large, complex data](https://doi.org/10.1016/j.envint.2022.107694). My work has been motivated and applied to a range of problems in environmental and public health. Simultaneously, I create user-friendly software for efficient application and reproducibility in epidemiological studies. In addition, I enjoy consulting and collaborating in new areas of research and scientific exploration.  
+Welcome to my personal webpage. I am a research scientist in the [Department of Biostatistics at Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu/biostatistics/) working with [National Studies on Air Pollution and Health](https://www.hsph.harvard.edu/nsaph/). My statistical interests include [structured machine learning](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13568), [effect heterogeneity](https://arxiv.org/abs/2109.13763), [functional regression](https://doi.org/10.1093/biostatistics/kxaa051), [causal inference](https://arxiv.org/abs/2306.03011), [Bayesian methodology and computation](https://arxiv.org/abs/2301.12937), and analysis of [large, complex data](https://doi.org/10.1016/j.envint.2022.107694). My work has been motivated and applied to a range of scientific questions in environmental and public health. Simultaneously, I create user-friendly software for efficient application and reproducibility in epidemiological studies. In addition, I enjoy consulting and collaborating in new areas of research and scientific exploration.  
 
 I received my PhD in Statistics from [Colorado State University](https://statistics.colostate.edu/), where my dissertation focused on developing machine learning methods to understand the relationships between air pollution exposures during gestation and children's birth and health outcomes. During graduate school I also worked as a statistical consultant with the [Graybill Statistics and Data Science Laboratory](https://statlab.colostate.edu/). Prior to my work as a statistician, I taught high school math at [Greeley West High School](https://www.greeleyschools.org/Domain/29) in Greeley, CO where I implemented a personalized learning system; worked for [Target Corporation](https://corporate.target.com) where I managed a range of workforce and procurement analytics and created data-driven tools for workflow optimization and cost efficiency; and was a web developer specializing in database-driven web services.
 
 In my free time I enjoy biking, skiing, camping, and gardening.
 
 ## Selected Statistical Publications
+[**A structural nested rate model for estimating the effects of time-varying exposure on recurrent event outcomes in the presence of death**](https://arxiv.org/abs/2506.07910)<br/>D Mork, [RL Strawderman](https://www.urmc.rochester.edu/people/112359920-robert-l-strawderman), [M Audirac](https://audiracmichelle.com), [F Dominici](https://www.hsph.harvard.edu/francesca-dominici/), [A Ertefaie](https://ertefaie.com).
+
+[**Structured Bayesian Regression Tree Models for Estimating Distributed Lag Effects: The R Package dlmtree**](https://arxiv.org/abs/2504.18452) <br/>[S Im](https://seongwonim.github.io), [A Wilson](https://anderwilson.github.io/), D Mork.
+
+[**Policy-induced air pollution health disparities: Statistical and data science considerations**](https://doi.org/10.1126/science.adp1870) <br />D Mork, S Delaney, [F Dominici](https://www.hsph.harvard.edu/francesca-dominici/). *Science (2024)*.
+
 [**Incorporating prior information into distributed lag nonlinear models with zero-inflated monotone regression trees**](https://doi.org/10.1214/23-BA1412) <br />D Mork, [A Wilson](https://anderwilson.github.io/). *Bayesian Analysis (2024)*.<br />([arXiv](https://arxiv.org/abs/2301.12937)) ([code](https://github.com/danielmork/monotone_dlnm))
 
 [**Heterogeneous Distributed Lag Models to Estimate Personalized Effects of Maternal Exposures to Air Pollution**](https://doi.org/10.1080/01621459.2023.2258595)<br />D Mork, [M-A Kioumourtzoglou](https://marianthi.github.io/makLAB.github.io/), [M Weisskopf](https://www.hsph.harvard.edu/weisskopf-lab/), [B A Coull](https://www.hsph.harvard.edu/brent-coull/), [A Wilson](https://anderwilson.github.io/). *Journal of the American Statistical Association (2024)*.<br /> ([arXiv](https://arxiv.org/abs/2109.13763)) ([code](https://github.com/danielmork/HDLM))
@@ -25,6 +31,11 @@ In my free time I enjoy biking, skiing, camping, and gardening.
 ### R package: [dlmtree](https://danielmork.github.io/dlmtree)
 - Treed Distributed Lag Non-Linear Models, [code example](https://danielmork.github.io/dlmtree_docs/TDLNM_Example.html)
 - Treed Distributed Lag Mixture Models, [code example](https://danielmork.github.io/dlmtree_docs/TDLMM_Example.html), [adjusting for changes in co-exposures](https://danielmork.github.io/dlmtree_docs/TDLMM_adj_coexp.html)
+  
+[![CRAN
+status](https://www.r-pkg.org/badges/version/dlmtree)](https://CRAN.R-project.org/package=dlmtree)
+[![R-CMD-check](https://github.com/danielmork/dlmtree/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/danielmork/dlmtree/actions/workflows/R-CMD-check.yaml)
+[![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/dlmtree)](https://CRAN.R-project.org/package=dlmtree)
 
 ## Teaching
 Colorado State University
